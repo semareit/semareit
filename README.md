@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ## Articles
 
-- [Free and Creative Commons Music](free-and-creative-commons-music/index.md)
+- [Free and Creative Commons Music](../free-and-creative-commons-music/index.md)
 - [https://semareit.github.io//tree/main/001-best-practice---linux-debian-on-lenovo-thinkpad-t14s-amd-gen3/]()
