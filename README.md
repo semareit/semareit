@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Articles
+
+- [free-and-creative-commons-music/tree/main/index.md](Free and Creative Commons Music)
+- [https://semareit.github.io//tree/main/001-best-practice---linux-debian-on-lenovo-thinkpad-t14s-amd-gen3/]()
