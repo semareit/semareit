@@ -4,5 +4,5 @@
 
 ## Projects
 
-- [Convert 'Amarok Music Player' statistics to 'KDE Baloo' extended file attributes](../../../amarok-music-data-to-extended-file-attributes/tree/main/README.md)
+- [Convert Amarok Music Player data to extended file attributes](../../../amarok-music-data-to-extended-file-attributes/tree/main/README.md)
 - [Standorte der deutschen Waffen- und Rüstungsindustrie](../../../german-armament-industry-map/tree/main/README.md)
